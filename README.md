@@ -1,4 +1,4 @@
-# ecc
+# Error-Correcting Code
 (15,5)BCH code
 
 
